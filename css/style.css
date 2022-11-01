@@ -9,3 +9,8 @@ p{
     text-align: center;
     color :darkolivegreen;
 }
+
+ul {
+    font-size: 20px;
+    list-style: none;
+}
